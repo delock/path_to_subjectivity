@@ -16,7 +16,7 @@
 
 在很多地方，我们会看到三种视锥细胞的响应曲线。在视觉神经研究中，研究人员一般不把三种视锥细胞称为蓝色视锥细胞，绿色视锥细胞，和红色视锥细胞，而是按照三种视锥细胞的吸收波段分别称它们为S视锥细胞，M视锥细胞，和L视锥细胞。S、M、和L分别对应光波长为短（short）、中（middle）、和长（long），如下图所示。
 
-> ![](assets/GourasFig 14.gif)
+> ![](assets/GourasFig-14.gif)
 >
 > [灵长目的视锥细胞光谱吸收曲线–WebVision, Color Vision](http://webvision.med.utah.edu/book/part-vii-color-vision/color-vision/)
 
@@ -40,7 +40,7 @@
 
 然而色彩的感觉并没有彻底向我们闭上大门。从前面的视锥光谱吸收曲线我们可以看到。L视锥细胞和M视锥细胞的曲线非常接近。这是因为哺乳动物在进化到灵长动物之前，只有两种视锥细胞。L视锥细胞在黄光处得到最大响应，S视锥细胞在蓝光处得到最大响应。灵长动物为了能够将红色的果实和绿色的叶子分辨开来，控制视锥细胞形成的基因发生了突变，原来的L变成了L和M，从而使得灵长动物能够看到三原色而不是原来的两原色。
 
->![](assets/GourasFig 3.gif)
+>![](assets/GourasFig-3.gif)
 >
 >[WebVision,Color Vision](http://webvision.med.utah.edu/book/part-vii-color-vision/color-vision/)
 
